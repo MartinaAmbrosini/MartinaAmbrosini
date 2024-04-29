@@ -49,9 +49,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinaAmbrosini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MartinaAmbrosini&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MartinaAmbrosini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinaAmbrosini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=chartreuse-dark&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MartinaAmbrosini&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MartinaAmbrosini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
 </div>
 
 ###
@@ -80,12 +80,11 @@
 
 <br clear="both">
 
-<h4 align="center">🗻 I love videogames & all about asian stuff!  Would love to connect this passion with the job i'm looking for! 🎮</h4>
+<h3 align="center">🗻 I love videogames & all about asian stuff!  Would love to connect this passion with the job i'm looking for! 🎮</h3>
 
 ###
 
 <br clear="both">
-
 
 <div align="center">
   <img height="300" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"  />
