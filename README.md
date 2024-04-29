@@ -1,31 +1,97 @@
-<h1 align="center">Hi 👋, I'm Martina</h1>
-<h3 align="center">A Junior Full Stack Web-Developer from 🇮🇹</h3>
+<br clear="both">
 
-- 📫 How to reach me **martinaambrosini17@gmail.com**
+<h1 align="left">Henlo 👋! My name is Martina ✨</h1>
 
-- ⚡Hobbies: **I love videogames! 🎮**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h2 align="left">🐣 I'm a Junior Full Stack Web-Developer based in Rome (🇮🇹)!</h2>
 
-<h3 align="left"> ♨ Languages and Tools: </h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinaambrosini&show_icons=true&locale=en&layout=compact" alt="martinaambrosini" />
-</p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinaambrosini&show_icons=true&locale=en" alt="martinaambrosini" /></p>
+<br clear="both">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinaAmbrosini&" alt="MartinaAmbrosini" /></p>
+<div align="center">
+  <img height="300" src="https://steamuserimages-a.akamaihd.net/ugc/769486485247264412/4CEA7943181CB95D3594E90A9C675D264553036F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">♨ Languages, Tools & GitStats:</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinaAmbrosini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=chartreuse-dark&hide_border=false&order=2" height="165" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MartinaAmbrosini&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="165" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MartinaAmbrosini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MartinaAmbrosini/MartinaAmbrosini/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<h3 align="left">🤓 Connect with me here :</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/martina-ambrosini-8a9671209/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">⚡Hobbies&Interests:</h3>
+
+###
+
+<br clear="both">
+
+<h3 align="center">🗻 I love videogames & all about asian stuff!  Would love to connect this passion with the job i'm looking for! 🎮</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.gifer.com/3AyY.gif"  />
+</div>
+
+###
