@@ -49,9 +49,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinaAmbrosini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=chartreuse-dark&hide_border=false&order=2" height="100" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MartinaAmbrosini&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="100" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MartinaAmbrosini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinaAmbrosini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=chartreuse-dark&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MartinaAmbrosini&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MartinaAmbrosini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
 </div>
 
 ###
